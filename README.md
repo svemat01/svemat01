@@ -1,5 +1,5 @@
 ## Who am I
-I'm Jakob Helgesson or as commonly known online as svemat. Im a 17 year old developer studying computer science.
+I'm Jakob Helgesson or as commonly known online as svemat. Im a 18 year old developer studying computer science.
 
 ### Languages:
 
