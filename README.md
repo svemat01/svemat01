@@ -1,18 +1,15 @@
-## Who am I
-I'm Jakob Helgesson or as commonly known online as svemat. Im a 19 year old developer studying computer science.
+# Hi, I'm Jakob 👋
 
-### Languages:
+Developer working on open source, infrastructure, and web tooling.
 
-<a href="https://www.python.org/"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="arduino" width="48" height="48"/></a>
-<a href="https://www.javascript.com/"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="javascript" width="48" height="48"/></a>
-<a href="https://www.typescriptlang.org/"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="javascript" width="48" height="48"/></a>
+Currently a **core web developer at [ENS Labs](https://www.enslabs.org/)**, working on ENS applications and related tooling.
 
+I also build and experiment with projects through **[V3X Labs](https://v3x.company/)**, mostly around TypeScript, Rust, and web infrastructure.
 
-<!---
-svemat01/svemat01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### Things I like working with
+
+TypeScript • Rust • Node.js • React • Ethereum
 
 ---
 
-<a href='https://ko-fi.com/jakobhelgesson' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi3.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+I like building useful things and contributing back to the projects I use.
